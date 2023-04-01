@@ -1,0 +1,53 @@
+input{
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 1rem;
+    border-style: none;
+    color: wheat;
+    background-color: rgb(8, 110, 95);
+    font-size: 3rem;
+    box-shadow: 10px;
+}
+
+input:hover{
+    background-color: rgb(12, 141, 122);
+} 
+
+
+body{
+    background-color: black;
+    align-items: center;
+}
+
+.second{
+    background-color: rgb(57, 40, 43);
+    color: wheat;
+}
+
+.second:hover{
+    background-color: rgb(96, 68, 74);
+}
+
+.input{
+    width: 570px;
+    color: black;
+    background-color: wheat;
+    padding: 0 50px;
+    text-align: center;
+}
+
+.input:hover{
+        background-color: rgb(244, 229, 202);
+}
+
+h1{
+    text-align: center;
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 150px;
+}
+
+form{
+    transform: translate(30%);
+}
